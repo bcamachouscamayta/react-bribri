@@ -1,0 +1,29 @@
+-vite.config.js no se toca
+-readme son las instruciones de como levantar el programa como funciona y de que se trata
+-packge sin este archivo no levanta, todo lo que este ahi no se toca
+-las dependencias son herramientas que nos sirvem para el desarollo de la pagina    
+    siempre asegurar que este en el run y si no estas parado en el run de la aplicacion nos tira error
+    nos movemos a la carpeta y ponemos num instal esto instala las dependencias
+    y para asegurarde que esten instaladas tiene que estar la carpeta node_modules
+    npm run dev
+-el index no se toca
+-el main.jsx tampoco se toca a menos que sea un acaso extraordinario 
+-siempre los componentes en mayusculas sino no funka
+-se importan los puntos de la entrada en app
+-app.jsx 
+-para exportar un componente y usarlo es 
+    export defaul \ export function app()
+-return devuelve lo que vamos a ver
+-function devuelve logica
+-el estado tiene 3 partes: const(variable,setVariable) = useVariable(valor inicial);
+-const primero declara
+-el eestado se declara con const[]
+-.then = desopues
+-si esta en json haybque pasarlo a otro formato
+
+-hooks son ganchos pero no sirven para manipular
+-useState = el estad hook guarda y actualiza el valor de una variable 
+-useEffects = es un hok que nos `permite ejecutar un codigo que se encuentra dentro del {aca}.para qeu se actualize tiene que tener dependecincas
+    simepre arranca la palabra reservada use en minuscula
+    proximamente los nuestros
+s
